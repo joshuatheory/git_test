@@ -1,2 +1,2 @@
 # git_test
-testing git functionality
+This is joshuatheory's first git project!
